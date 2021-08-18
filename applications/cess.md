@@ -182,6 +182,8 @@ We will continue to improve the substrate-based CESS blockchain and provide reus
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Web3 Foundation Website
+**How did you hear about the Grants Program?** We have heard from Twitter.
 
-We have already implemented a design prototype and pilot test system. We have not applied for any other grants so far.
+**What work has been done already?** We have already implemented a design prototype and pilot test system.
+
+**Have you ever applied for other grants?** We have not applied for any other grants so far.
