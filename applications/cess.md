@@ -29,7 +29,7 @@ Mockups/designs of any UI components
 ![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img1.1.png)
 
 * My cloud disk: Personal storage space to view the files uploaded to the storage network; The list can be sorted by upload time, file name, file type and file size; Supports file download, share, property setting, deletion and other operations.
-![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img2.1.png)
+![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img2.2.png)
 
 * File upload: Select the files to be stored and set the relevant storage parameters.
 
