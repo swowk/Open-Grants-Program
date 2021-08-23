@@ -26,17 +26,17 @@ Mockups/designs of any UI components
 
 * Global nodes: Display the global map and the number of global nodes of distributed storage network, and mark the location distribution of nodes according to coordinates; Display node list.
 
-![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img1.png)
+![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img1.1.png)
 
 * My cloud disk: Personal storage space to view the files uploaded to the storage network; The list can be sorted by upload time, file name, file type and file size; Supports file download, share, property setting, deletion and other operations.
-![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img2.png)
+![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img2.1.png)
 
 * File upload: Select the files to be stored and set the relevant storage parameters.
 
-![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img3.png)
+![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img3.1.png)
 
 * Search for file: Search the whole network through keywords, and download the search results.
-![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img4.png)
+![Image](https://raw.githubusercontent.com/swowk/picsforcess/main/img4.1.png)
 
 Documentation of core components, protocols, architecture, etc. to be deployed
 
@@ -69,7 +69,7 @@ Compared to the similar projects in the Polkadot ecosystem including Ocean, Data
 
 ## Team :busts_in_silhouette:
 
-### Team advisors
+### Team members
 
 * Joseph Li
 * Jinghong Zeng 
@@ -127,9 +127,9 @@ Jinghong Zeng served more than 20 years with a global telecommunications coopera
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can running substrate to support storage service. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Article/Tutorial | We will publish an article and a tutorial that explains the work done as part of the grant. |
-| 1a. | Substrate module: User Profile | We will create a Substrate module that will generate user profiles based on the user's subscription. |  
-| 1b. | Substrate module: Authentication Status | We will create a Substrate module that will allow users to apply to authenticate accounts and query authentication status. |  
-| 1c. | Substrate module: Storage | We will create a Substrate module that will process and upload user data, and support Integrity verification. |  
+| 1a. | Substrate module: Files Bank | We will create a Substrate module that will generate file's tag information based on the user's subscription. |  
+| 1b. | Substrate module: Files Map | We will create a Substrate module that will allow users to query file storage path. |  
+| 1c. | Substrate module: Storage Miner | We will create a Substrate module that will process and upload user data, and support Integrity verification. |  
 | 2. | Docker | We will provide a dockerfile to demonstrate the full functionality of our chain. |
 
 
