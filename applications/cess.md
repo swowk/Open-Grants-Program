@@ -176,7 +176,7 @@ We will continue to improve the substrate-based CESS blockchain and provide reus
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** We have heard from Twitter.
+**How did you hear about the Grants Program?** We have heard from Parity Asia.
 
 **What work has been done already?** We have already implemented a design prototype and pilot test system.
 
